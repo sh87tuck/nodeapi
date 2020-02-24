@@ -14,9 +14,17 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
-    "mongoose": "^5.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2",
     "morgan": "^1.9.1",
-    "nodemon": "^1.18.9"
-  }
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh87tuck/nodeapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sh87tuck/nodeapi/issues"
+  },
+  "homepage": "https://github.com/sh87tuck/nodeapi#readme"
 }
